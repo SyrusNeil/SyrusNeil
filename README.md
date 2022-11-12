@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syrus Neil</h1>
-<h3 align="center">I am Syrus Neil currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
+<h3 align="center">Currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
 
 I aspire to become a data analyst.
 
