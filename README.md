@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syrus Neil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Syrus Neil currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
+
+I aspire to become a data analyst.
+
+I have good leadership skills and team spirit.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syrusneil&label=Profile%20views&color=0e75b6&style=flat" alt="syrusneil" /> </p>
 
